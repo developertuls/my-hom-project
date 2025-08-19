@@ -4,7 +4,7 @@
 
  🔗 Live Demo
  Check the main live website here:
- 👉 https://profound-mermaid-ea927c.netlify.app
+ 👉https://zesty-sundae-782ba7.netlify.app/
 
 
 
